@@ -1,1 +1,1 @@
-## This directiry contains infrastructure as code for provisioning and managing resources in GCP
+## This directory contains infrastructure as code for provisioning and managing resources in GCP
